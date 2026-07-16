@@ -15,4 +15,4 @@ Før offentlig eller produktionsmæssig anvendelse:
 3. Tilpas opbevaringsfrister til jeres konkrete slettepolitik og bogføringsprocedure.
 4. Foretag ny juridisk vurdering, hvis systemet bruges for andre juridiske enheder.
 
-Siderne kan åbnes direkte fra en mappe eller lægges på en almindelig webserver...
+Siderne kan åbnes direkte fra en mappe eller lægges på en almindelig webserver.

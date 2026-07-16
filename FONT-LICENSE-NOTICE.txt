@@ -1,0 +1,14 @@
+MONTSERRAT FONT
+
+Siderne bruger Montserrat via Google Fonts:
+https://fonts.google.com/specimen/Montserrat
+
+Fontfiler er ikke inkluderet i pakken. Montserrat distribueres af Google Fonts
+under SIL Open Font License 1.1. Ved at indlæse fonten fra Google Fonts undgår
+denne pakke at videredistribuere fontfiler.
+
+Bemærk, at brug af Google Fonts indebærer en ekstern netværksanmodning fra
+brugerens browser. Hvis SF7 ApS senere ønsker lokal hosting af fonten, bør de
+officielle WOFF2-filer og den tilhørende OFL-licenstekst hentes fra den officielle
+Google Fonts-kilde og placeres i projektet uden ændringer, medmindre licensen
+tillader andet.
